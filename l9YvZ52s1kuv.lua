@@ -1,3 +1,5 @@
+-- remove fireybush5 on 7.10.2024
+
 
 getgenv().whitelistedPlayers = {
     "coolroblox123rock",
@@ -34,7 +36,8 @@ getgenv().whitelistedPlayers = {
     "ichbinabudi1070",
     "whitelisttestingg",
     "RobloxBanneAMiROMG5",
-    "drgdrgdrgdrgdg121n"
+    "drgdrgdrgdrgdg121n",
+    "fireybush5"
 }
 
 getgenv().premiumUsers = {
@@ -66,7 +69,8 @@ getgenv().premiumUsers = {
     "ichbinabudi1070",
     "whitelisttestingg",
     "RobloxBanneAMiROMG5",
-    "drgdrgdrgdrgdg121n"
+    "drgdrgdrgdrgdg121n",
+    "fireybush5"
 }
 
 loadstring(game:HttpGet(("https://raw.githubusercontent.com/Alikhammass/MyAdmin/refs/heads/main/Bot%20template")))()
